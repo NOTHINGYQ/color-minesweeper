@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/color-minesweeper/static/css/main.8334695a.css",
+    "main.js": "/color-minesweeper/static/js/main.d170517f.js",
+    "index.html": "/color-minesweeper/index.html",
+    "main.8334695a.css.map": "/color-minesweeper/static/css/main.8334695a.css.map",
+    "main.d170517f.js.map": "/color-minesweeper/static/js/main.d170517f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8334695a.css",
+    "static/js/main.d170517f.js"
+  ]
+}
